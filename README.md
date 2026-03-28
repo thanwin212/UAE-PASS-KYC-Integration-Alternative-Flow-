@@ -75,6 +75,13 @@ KYC Approved
 
 Identity Integration
 API Management
+
+[Approved by UAE PASS.pdf](https://github.com/user-attachments/files/26324692/Approved.by.UAE.PASS.pdf)
+
+[GP-Product Approval Form – UAE PASS Integration (Pay10 Consumer App – UAE Entity)-280326-153359.pdf](https://github.com/user-attachments/files/26324690/GP-Product.Approval.Form.UAE.PASS.Integration.Pay10.Consumer.App.UAE.Entity.-280326-153359.pdf)
+
+
+
 UX Flow Optimization
 Stakeholder Coordination
 [Uploading Onboarding - STP KYC.pdf…]()
