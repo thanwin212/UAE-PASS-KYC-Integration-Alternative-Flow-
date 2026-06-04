@@ -6,6 +6,10 @@ This project delivered an alternative KYC onboarding solution by integrating UAE
 
 The solution enabled users to authenticate securely using their verified identity without requiring OCR or biometric scanning.
 
+Project Length:
+Start Date: 25 March 2025
+End Date: 
+
 🎯 **Objectives**
 
 Provide a fallback KYC option
