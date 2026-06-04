@@ -8,7 +8,7 @@ The solution enabled users to authenticate securely using their verified identit
 
 Project Length:
 Start Date: 25 March 2025
-End Date: 
+End Date: 29 Dec 2025
 
 🎯 **Objectives**
 
@@ -25,39 +25,33 @@ Reduce dependency on OCR and face recognition
 
 🧩 **My Role**
 
-Project Manager
-
+Project Manager and contributed to workflow designing
 Defined integration requirements and authentication flow
 Managed UAE PASS integration lifecycle
 Designed user journey and fallback logic
-Coordinated testing, UAT, and release
+Coordinated testing, UAT, and releases
+Defining edge cases
 
 ⚠️ **Challenges & Solutions**
 
-1. App Redirection Issues
+1. Handling edge cases
 
-Challenge: Failure in app-to-app navigation
-Solution:
+Challenge: Failure and lacking of covering edge cases for negative scenarios
+Solution: Confirm on the use cases with UAE Pass and apply the logics
 
-Optimized deep linking and callback handling
 2. User Awareness
 
 Challenge: Users unfamiliar with UAE PASS
-Solution:
+Solution:Introduced onboarding instructions and guidance
 
-Introduced onboarding instructions and guidance
 3. API Latency
-
 Challenge: Delays in authentication response
-Solution:
+Solution:Implemented retry logic and session persistence
 
-Implemented retry logic and session persistence
 4. Dual Flow Complexity
 
 Challenge: Managing EFR and UAE PASS flows
-Solution:
-
-Built seamless switching logic
+Solution:Built seamless switching logic
 
 🏗️ **High-Level Flow**
 
@@ -78,7 +72,10 @@ KYC Approved
 🧠 **Key Skills Demonstrated**
 
 Identity Integration
-API Management
+Workflow management
+Identify information
+Regulatory alignment
+complex project and scope management
 
 [Approved by UAE PASS.pdf](https://github.com/user-attachments/files/26324692/Approved.by.UAE.PASS.pdf)
 
