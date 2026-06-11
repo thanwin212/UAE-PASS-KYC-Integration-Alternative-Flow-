@@ -1,4 +1,4 @@
-# UAE-PASS-KYC-Integration-Alternative-Flow
+# UAE-PASS-KYC-Integration-Onboarding KYC
 
 📌 **Project Overview**
 
@@ -9,6 +9,7 @@ The solution enabled users to authenticate securely using their verified identit
 Project Length:
 Start Date: 25 March 2025
 End Date: 29 Dec 2025
+Go-Live - 16 Feb 2026
 
 🎯 **Objectives**
 
